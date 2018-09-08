@@ -1,6 +1,6 @@
 // Declare Verions of Solidity 
 
-pragma solidity ^0.4.11 ; 
+pragma solidity ^0.4.2 ; 
 
 // Declare Contract 
 
